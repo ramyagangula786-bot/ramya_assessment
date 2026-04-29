@@ -1,4 +1,4 @@
-# Saranya_Nestack_Submission
+# Ramya_Nestack_Submission
 
 ## Structured Data Extractor API
 
@@ -147,7 +147,7 @@ After the LLM response, the backend validates and normalizes the output shape. I
 ## Project Structure
 
 ```text
-Saranya_Nestack_Submission/
+Ramya_Nestack_Submission/
 ├── src/
 │   ├── extractor.js
 │   ├── prompt.js
