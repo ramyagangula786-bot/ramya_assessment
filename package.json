@@ -1,0 +1,23 @@
+{
+  "name": "saranya_nestack_submission",
+  "version": "1.0.0",
+  "description": "Structured Data Extractor API for Nestack technical assessment",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "samples": "node scripts/run-samples.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
